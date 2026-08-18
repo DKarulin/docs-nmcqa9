@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-nzalng.juragan89alt.site/sitemap.xml
